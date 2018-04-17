@@ -7,7 +7,7 @@
     <version>20</version>
   </parent>
   <groupId>124-644</groupId>
-  <artifactId>d4.345</artifactId>
+  <artifactId>d4-345</artifactId>
   <version>124.554</version>
   <packaging>jar</packaging>
 
